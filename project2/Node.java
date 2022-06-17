@@ -3,9 +3,6 @@ package project2;
 /** 
  * The Node class creates the Node object for use in the BinarySearchTree class
  * and consists of a printNode() method to display the node to the user.
- * 
- * @author Celine Ramirez
- * @version June 12, 2022
  */
 
 public class Node {
