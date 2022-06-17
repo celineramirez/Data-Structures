@@ -6,9 +6,6 @@
  * Options consist of searching and sorting.
  * This class also prints the spearman rho matrix when selected.
  * The program ends the program when user selects option 7.
- *
- * @author Celine Ramirez
- * @version May 20, 2022
  */
 package project1;
 
