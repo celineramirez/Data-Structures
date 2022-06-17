@@ -1,7 +1,7 @@
 package project2;
 
 /** 
- * COP 3530: Project 2 – Binary Search Trees 
+ * COP 3530: Project 2 â€“ Binary Search Trees 
  * <p> 
  * This class reads in the Countries2.csv file into a binary search tree
  * Then, it prompts a menu of 9 binary search tree operations to the user
