@@ -2,9 +2,6 @@
  * Country class to define a country object called in project 1
  * get and set entity attributes
  * and display country data via a display() method
- * 
- * @author Celine Ramirez
- * @version May 20, 2022 
  */
 package project1;
 
