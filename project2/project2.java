@@ -5,9 +5,6 @@ package project2;
  * <p> 
  * This class reads in the Countries2.csv file into a binary search tree
  * Then, it prompts a menu of 9 binary search tree operations to the user
- * 
- * @author Celine Ramirez
- * @version June 12, 2022
  */
 import java.io.File;
 import java.io.FileNotFoundException;
