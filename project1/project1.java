@@ -1,5 +1,5 @@
 /**
- * COP 3530: Project 1 – Array Searches and Sorts
+ * COP 3530: Project 1 â€“ Array Searches and Sorts
  * <p>
  * Project 1 class begins by creating a country object array, parsing Countries1.csv and stores information in array.
  * The menu of options is repeatedly prompted to the user.
@@ -82,7 +82,7 @@ public class project1 {
                     + "3. Sort by Case Fatality Rate\n"
                     + "4. Sort by GDP per capita\n"
                     + "5. Find and print a given country\n"
-                    + "6. Print Spearman’s rho matrix\n"
+                    + "6. Print Spearmanâ€™s rho matrix\n"
                     + "7. Quit\nEnter a numerical value");
 
             try {
