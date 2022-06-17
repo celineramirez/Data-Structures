@@ -3,9 +3,6 @@ package project2;
 /** 
  * This class handles the binary search tree operations presented to the user
  * in the menu found in the project 2 class.
- * 
- * @author Celine Ramirez
- * @version June 12, 2022
  */
 
 public class BinarySearchTree {
