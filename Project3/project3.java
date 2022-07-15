@@ -1,5 +1,5 @@
 /** 
- * COP 3530: Project 3 – Hash Tables 
+ * COP 3530: Project 3 â€“ Hash Tables 
  * <p> 
  * Project3 class reads the countries3.csv file in and
  * prompts user with a menu of hash table operations
